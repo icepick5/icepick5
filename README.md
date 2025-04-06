@@ -14,7 +14,7 @@
 - 🐦 Twitter: [@WisdomVinny5](https://x.com/WisdomVinny5?t=Yo4bmIvo_San6iGgs4H39w&s=09)  
 - 💼 LinkedIn: [Cheruiyot Vincent](https://www.linkedin.com/in/cheruiyot-vincent-5b4398353)  
 - ✉️ Email: [vincente5cheruiyot@gmail.com](mailto:vincente5cheruiyot@gmail.com)  
-- 🌐 Portfolio: **Coming soon...**  
+- 🌐 Portfolio: [Vincent Cheruiyot](https://vincent-cheruiyot.vercel.app/)  
 
 ## ⚡ Fun Fact  
 - I love **debugging and optimizing performance**.  
